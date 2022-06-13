@@ -1,0 +1,19 @@
+.Berlin{
+    color: blue;
+    
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.resource{
+    color: blueviolet;
+}
+.Geschichte,.Bevölkerung,.Sprache{
+    color: green;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.BParagraph,.GParagraph,.SParagraph{
+    color: brown;
+}
